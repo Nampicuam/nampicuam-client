@@ -1,0 +1,15 @@
+export let Dummy = {
+    user_id: '',
+    title: '',
+    description: '',
+    src: '',
+    volunteers: '',
+    investment: '',
+    start: '',
+    end: '',
+    donors: '',
+    fundraising: '',
+    status: '',
+    need_donor: '',
+    need_volunteer: '',
+};
